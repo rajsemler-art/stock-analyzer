@@ -1,2 +1,2 @@
 # stock-analyzer
-professional Stock analyzis Bot
+Professional Stock Analysis Bot
